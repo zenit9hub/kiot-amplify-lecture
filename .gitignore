@@ -1,0 +1,41 @@
+# Node dependencies
+/node_modules/
+
+# Build output
+/dist/
+/build/
+
+# Vite cache
+/.vite/
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Editor directories and OS metadata
+.DS_Store
+/.idea/
+/.vscode/
+
+# Testing and coverage
+/coverage/
+/cypress/videos/
+/cypress/screenshots/
+
+# Package manager stores
+/.pnpm-store/
+/.yarn/
+/.turbo/
+
+# Misc
+/.eslintcache
+/.parcel-cache/
+/.cache/
