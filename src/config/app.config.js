@@ -15,7 +15,7 @@ export const appConfig = {
    * 애플리케이션 이름
    * - 브라우저 탭 제목과 헤더에 표시됩니다
    */
-  appName: "KIoT Device Manager 1028 email",
+  appName: "KIoT Device Manager 1028 email slack",
 
   /**
    * 애플리케이션 설명
